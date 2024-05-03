@@ -4,7 +4,7 @@ var div3 = document.getElementById("sec3");
 var div4 = document.getElementById("sec4");
 var div5 = document.getElementById("sec5");
 
-alert('Click the button below to Generate your code')
+alert('Click the Generate button to Generate your code')
 
  function suBmit(){
  div.innerHTML = (Math.round(Math.random()*10000000000000000));
